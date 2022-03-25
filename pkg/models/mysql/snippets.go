@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"errors"
 
-	"petekaroon.com/snippetbox/pkg/models"
+	"github.com/petekaroon/snippetbox/pkg/models"
 )
 
 type SnippetModel struct {

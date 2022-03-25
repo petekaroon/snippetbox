@@ -1,4 +1,4 @@
-module petekaroon.com/snippetbox
+module github.com/petekaroon/snippetbox
 
 go 1.17
 
